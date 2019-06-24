@@ -19,7 +19,7 @@ det er en kodebase som jeg kan genbruge igen og igen. Så jeg undgår at skulle 
 * `run-script-os`
 
 ## Komandoer
-`run dev`, `npm start`, `NPM start`, `NPM install` eller `Node (navn på server filen)`
+`run dev`, `npm start`, `NPM start`, `NPM install` eller `Node (navn på server filen port skal være 6912 )`
 
 ## Maintainers
 Jannick Batz
